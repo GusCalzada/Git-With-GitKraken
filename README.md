@@ -1,4 +1,4 @@
-Git-With-GitKraken
+Git-With-GitKraken and Glo Boards
 
 En este repositorio veremos como usar Bootstrap para una página web, así como modificarla y guardando cambios usando GitKraken
 Usango las ramas:
